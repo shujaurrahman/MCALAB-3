@@ -1,0 +1,12 @@
+this is for illustration purpose only 
+
+cp: copy file
+mv: move file
+rm: remove file 
+
+-r for dir
+
+The mkdir command is used to create new directories.
+The rmdir command is used to remove empty directories.
+
+pwd: display current working di
