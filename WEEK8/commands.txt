@@ -1,0 +1,5 @@
+ls -l 
+dscl . list /Users  
+sudo chown username commands.txt
+dscl . list /Groups 
+sudo chgrp Groupsname commands.txt 
