@@ -1,0 +1,21 @@
+MCA, Database
+MCA, Java
+MCA, Data Structure
+MCA, Python
+MCA, Machine Learning
+MCA, Web Development
+M.Sc, Data Science
+M.Sc, Artificial Intelligence
+M.Sc, Cloud Computing
+B.Sc, Python Programming
+B.Sc, Operating Systems
+B.Sc, Computer Networks
+B.Sc, Software Engineering
+B.Com, Accounting
+B.Com, Business Law
+B.Com, Marketing Management
+BBA, Principles of Management
+BBA, Business Communication
+BBA, Human Resource Management
+BCA, Digital Marketing
+BCA, Mobile Application Development
