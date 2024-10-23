@@ -1,0 +1,7 @@
+mkdir mydir
+ls -li
+cd mydir
+touch myfile.txt
+ls -li
+rm myfile.txt
+ls -li
