@@ -6,6 +6,7 @@
 if [ "$#" -ne 2 ]; then
   echo "Usage: $0 source_directory backup_location"
   exit 1
+  
 fi
 
 # Set source and destination directories from the input arguments
